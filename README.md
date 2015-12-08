@@ -1,2 +1,2 @@
 # openMAST
-Code from the Media Advertising Management System
+Open source code from the Media Advertising Sales Management System
